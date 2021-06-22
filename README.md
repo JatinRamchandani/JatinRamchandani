@@ -7,8 +7,6 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3> 
 
-
-![Counter](https://komarev.com/ghpvc/?username=JatinRamchandani&color=blue)
 - 🎓 &nbsp; Undergraduate student at Indian Institute of Technology, Roorkee(https://www.iitr.ac.in/).
 - 🌱 &nbsp; I like building applications on multiple platforms.
 
