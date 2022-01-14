@@ -47,5 +47,5 @@
 
 <a href="https://in.linkedin.com/in/jatin-ramchandani-09a6361a0" > <img width= "45" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"> </a> &nbsp;
 <a href="https://twitter.com/Jatin_Rcd" > <img width= "45" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg"> </a> &nbsp;
-<a href="https://www.instagram.com/jatrcd28_/" > <img width= "45" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"> </a> &nbsp;
+<a href="https://www.instagram.com/jatrcd_/" > <img width= "45" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"> </a> &nbsp;
 
