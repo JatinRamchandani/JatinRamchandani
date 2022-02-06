@@ -8,7 +8,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3> 
 
 - 🎓 &nbsp; Undergraduate student at Indian Institute of Technology, Roorkee(https://www.iitr.ac.in/).
-- 🌱 &nbsp; I like building applications on multiple platforms.
+- 🌱 &nbsp; I like creating applications on multiple platforms using different technologies. That's it!
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 <p align= "left">
